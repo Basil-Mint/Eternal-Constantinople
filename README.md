@@ -1,5 +1,5 @@
-# Unciv-mod-example
+# Unciv-mod-Eternal-Constantinople
 
-An example mod for Unciv, that adds one new Civilization.
+Rework The Whole Byzantine Civ because of How Pathetic the Original was and Make Byzantine Civ Op, and I took Few Inspiration from Civ 6.
 
 For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
