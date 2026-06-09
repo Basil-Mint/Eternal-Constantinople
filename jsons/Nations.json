@@ -37,7 +37,7 @@
 		"cities": ["Constantinople", "Rome", "Alexandria", "Jerusalem", "Antioch", "Adrianople", "Nicaea", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
 			"Tyana", "Bethlehem", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
-			"Patra", "Korinthos"],
+			"Patras", "Korinthos"],
         "spyNames": ["Antonina", "Eirene", "Sophia", "Marina", "Theophano", "Helena", "Zoe", "Ioanno", "Xene", "Euphrosyne"],
 	}
 ]
